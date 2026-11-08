@@ -1,0 +1,9 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "default_style": "huong-dan",
+  "styles": {
+    "huong-dan": { "rate": "+0%", "pitch": "+0Hz" },
+    "dien-thuyet": { "rate": "-12%", "pitch": "-4Hz" },
+    "mo-ta": { "rate": "+8%", "pitch": "+2Hz" }
+  }
+}
